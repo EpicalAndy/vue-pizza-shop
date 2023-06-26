@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Пицца 1",
+    "price": 500,
+    "url": "/imgs/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Пицца 2",
+    "price": 600,
+    "url": "/imgs/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Пицца 3",
+    "price": 650,
+    "url": "/imgs/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Пицца 4",
+    "price": 700,
+    "url": "/imgs/1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Пицца 5",
+    "price": 500,
+    "url": "/imgs/2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Пицца 6",
+    "price": 700,
+    "url": "/imgs/3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Пицца 7",
+    "price": 550,
+    "url": "/imgs/1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Пицца 8",
+    "price": 700,
+    "url": "/imgs/3.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Пицца 9",
+    "price": 750,
+    "url": "/imgs/1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Пицца 10",
+    "price": 700,
+    "url": "/imgs/3.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Пицца 11",
+    "price": 650,
+    "url": "/imgs/1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Пицца 12",
+    "price": 700,
+    "url": "/imgs/3.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Пицца 13",
+    "price": 550,
+    "url": "/imgs/1.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Пицца 14",
+    "price": 550,
+    "url": "/imgs/3.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Пицца 15",
+    "price": 800,
+    "url": "/imgs/1.jpg"
+  }
+]
