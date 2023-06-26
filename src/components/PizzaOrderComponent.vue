@@ -52,8 +52,6 @@ import PizzaButtonComponent from "@/components/UI/PizzaButtonComponent.vue";
 import { usePizzaStore } from "@/stores/store";
 import type { Order } from "@/models/order";
 
-// const props = defineProps(['pizza']);
-
 const props = defineProps([ 'pizza' ]);
 const street = ref('');
 const house = ref('');

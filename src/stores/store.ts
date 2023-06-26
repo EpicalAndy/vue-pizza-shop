@@ -1,7 +1,6 @@
 import { defineStore } from "pinia";
 import { Ref, ref } from "vue";
 import { Pizza } from "@/models/pizza";
-import axios from 'axios'
 import pizza from '@/demo/demo.json'
 import type { Order } from "@/models/order";
 

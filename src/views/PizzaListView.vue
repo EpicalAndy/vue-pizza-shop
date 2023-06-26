@@ -7,8 +7,8 @@
           <template v-for="item in slide" :key="item?.id">
             <pizza-card-component class="carousel__item"
                                   :pizza="item"
-                                  @click="makeOrder(item)"
-            ></pizza-card-component>
+                                  @click="makeOrder(item)">
+            </pizza-card-component>
           </template>
         </div>
       </slide>
@@ -18,8 +18,6 @@
       </template>
     </carousel>
   </div>
-
-
 </template>
 
 <script setup lang="ts">
